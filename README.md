@@ -2,7 +2,7 @@
 
 ## 简介
 
-real-world-haskell-cn章节文本的markdown格式
+real-world-haskell-cn章节文本的markdown格式，部分章节 [在线预览](https://hahg2000.github.io/%E5%AD%A6%E4%B9%A0/Haskell%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3/1.html) 
 
 ## 工具
 
