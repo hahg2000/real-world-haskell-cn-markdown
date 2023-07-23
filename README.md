@@ -22,5 +22,10 @@ real-world-haskell-cn章节文本的markdown格式
 ## 计划/TODO
 
 + [ ] 将错误的翻译改正
+  + [x] 第一章：fixity 的翻译增加注解
+
 + [ ] 将转换格式不正确的改正
+  + [x] 第一章
+  + [x] 第二章
+
 
