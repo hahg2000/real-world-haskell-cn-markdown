@@ -28,5 +28,6 @@ real-world-haskell-cn章节文本的markdown格式，部分章节 [在线预览]
   + [x] 第一章
   + [x] 第二章
   + [x] 第三章
-  + [ ] 第四章——doing
+  + [x] 第四章
+  + [ ] 第五章——doing
 
